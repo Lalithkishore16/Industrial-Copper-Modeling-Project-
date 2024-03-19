@@ -52,7 +52,7 @@ with tab1:
                     <style>
                     div.stButton > button:first-child {
                         background-color: #3F000F;
-                        color: white;
+                        color: #EBF4FA;
                         width: 100%;
                     }
                     </style>
