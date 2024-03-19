@@ -51,7 +51,7 @@ with tab1:
                 st.markdown("""
                     <style>
                     div.stButton > button:first-child {
-                        background-color: #009999;
+                        background-color: #3F000F;
                         color: white;
                         width: 100%;
                     }
