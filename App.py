@@ -12,7 +12,7 @@ st.set_page_config(layout="wide")
 
 st.write("""
 <div style='text-align:center'>
-    <h1 style='color:#009999;'>Industrial Copper Modeling Application</h1>
+    <h1 style='color:#800080;'>Industrial Copper Modeling Application</h1>
 </div>
 """, unsafe_allow_html=True)
 
@@ -152,5 +152,5 @@ with tab2:
             else:
                 st.write('## :red[The status is Lost] ')
                 
-st.write( f'<h6 style="color:rgb(0, 153, 153,0.35);">App Created by TulasiNND</h6>', unsafe_allow_html=True )  
+st.write( f'<h6 style="color:rgb(0, 153, 153,0.35);"> </h6>', unsafe_allow_html=True )  
 
